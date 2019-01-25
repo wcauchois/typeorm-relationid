@@ -5,4 +5,3 @@ To run this program:
 3. Run `yarn` to install dependencies.
 4. Run `yarn start`.
 
-[Link to issue](https://github.com/typeorm/typeorm/issues/2515)
